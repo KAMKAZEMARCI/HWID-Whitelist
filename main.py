@@ -17,4 +17,3 @@ except:
     os._exit() 
 
 print('You are Logged in')
-input()
